@@ -35,6 +35,10 @@ INSTALLED_APPS = [
     'learning_logs',
     'accounts',
 
+    # 第三方应用
+    # 务必将这个⽚段放在“我的应⽤程序”和“Django 默认添加的应⽤程序”之间
+    'django_bootstrap5',
+
     #
     'django.contrib.admin',
     'django.contrib.auth',
