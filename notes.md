@@ -6,7 +6,7 @@ Python中推荐“小写字母+_”的方式命名变量或文件。
 
 # 2. 创建虚拟环境
 ```bash
-python -m venv xx-env
+python -m venv venv # 保留这个名称即可，GitHub默认的ignore已经包含了
 source myenv/bin/activate  # Linux/macOS
 myenv\Scripts\activate     # Windows
 ```
