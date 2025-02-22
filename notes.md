@@ -6,7 +6,7 @@ Python中推荐“小写字母+_”的方式命名变量或文件。
 
 # 2. 创建虚拟环境
 ```bash
-python -m venv myenv
+python -m venv xx-env
 source myenv/bin/activate  # Linux/macOS
 myenv\Scripts\activate     # Windows
 ```
